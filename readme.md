@@ -1,7 +1,7 @@
 # Simple Todo App
 
 A beginner-friendly JavaScript project.
-add something new to check in vs codegit 
+add something new to check in vs code 
 
 ## How to run
 
