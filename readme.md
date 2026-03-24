@@ -1,11 +1,23 @@
-# this is my git project
+# Simple Todo App
 
-This is from bug branch
-this is cahnge feature branch
+A beginner-friendly JavaScript project.
 
-# this is feature2.0 
+## How to run
 
+1. Open `index.html` in a browser.
+2. Type a task in the field and click **Add**.
+3. Click ✔ to mark done/undone.
+4. Click 🗑 to remove a task.
 
-# this is comit 1
+## Features
 
-# this is commit 3
+- Add task
+- Mark complete/incomplete
+- Delete task
+- Persistent storage with `localStorage`
+
+## Files
+
+- `index.html` UI structure
+- `styles.css` layout and visuals
+- `script.js` app logic

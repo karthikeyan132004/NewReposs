@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f2f5;
+  margin: 0;
+  min-height: 100vh;
+}
+
+.app {
+  max-width: 420px;
+  margin: 80px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+h1 {
+  margin: 0 0 20px;
+  font-size: 24px;
+}
+
+.input-row {
+  display: flex;
+  gap: 8px;
+}
+
+#taskInput {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 14px;
+  border: none;
+  border-radius: 4px;
+  background: #0066ff;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0050e1;
+}
+
+ul {
+  list-style: none;
+  margin: 16px 0 0;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f9f9f9;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 8px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: #999;
+}
+
+button.toggle,
+button.delete {
+  margin-left: 8px;
+  font-size: 14px;
+  min-width: 35px;
+  background: #9a9a9a;
+}
+
+button.toggle {
+  background: #22a663;
+}
+
+button.delete {
+  background: #e24444;
+}
