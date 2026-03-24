@@ -1,6 +1,7 @@
 # Simple Todo App
 
 A beginner-friendly JavaScript project.
+add something new to check in vs codegit 
 
 ## How to run
 
