@@ -23,3 +23,6 @@
 `index.html` UI structure
 `styles.css` layout and visuals
 `script.js` app logic
+
+
+# this is my new logic can you try to access this 
