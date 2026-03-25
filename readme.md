@@ -1,7 +1,8 @@
 # Simple Todo App
 
-A beginner-friendly JavaScript project.
-add something new to check in vs code 
+# A beginner-friendly JavaScript project.
+# add something new to check in vs code 
+
 
 ## How to run
 
@@ -19,6 +20,6 @@ add something new to check in vs code
 
 ## Files
 
-- `index.html` UI structure
-- `styles.css` layout and visuals
-- `script.js` app logic
+`index.html` UI structure
+`styles.css` layout and visuals
+`script.js` app logic
